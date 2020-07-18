@@ -1,19 +1,19 @@
 ## Moviedb Api pull
 
 We extracted data from Moviedb APIs using Hooks useState, useEffect, Axios, Map. We brought the data with the map loop.
+<br><br>
+<b>cd moviedbaxios</b><br>
+<b>npm install</b><br>
+<b>npm build</b><br>
+<b>npm start</b><br><br>
 
-#cd moviedbaxios
-#npm install
-#npm build
-#npm start
+<b>||<br><br>
 
-||
+<b>yarn install</b><br>
+<b>yarn build</b><br>
+<b>yarn start</b><br>
 
-#yarn install
-#yarn build
-#yarn start
-
-You can stand up the project with.
+You can stand up the project with.<br><br>
 
     import React, { useEffect, useState } from 'react'
 		import axios from 'axios';
